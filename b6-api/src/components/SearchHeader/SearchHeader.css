@@ -1,0 +1,12 @@
+#SearchHeader {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+}
+
+#SearchHeader input {
+    height: 20px;
+    margin-top: 10px;
+}

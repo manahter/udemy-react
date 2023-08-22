@@ -1,0 +1,4 @@
+.imageList {
+    columns: 250px 5;
+    column-gap: 10px;
+}
