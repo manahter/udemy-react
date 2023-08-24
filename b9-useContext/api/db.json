@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "title": "Elektriği öde",
+      "taskDesc": "Elektrik faturası 99.99.9999 tarihinde ödenecek",
+      "id": 1
+    },
+    {
+      "title": "Suyu öde",
+      "taskDesc": "Su faturası 99.99.9999 tarihinde ödenecek",
+      "id": 2
+    },
+    {
+      "title": "Ekmek al",
+      "taskDesc": "2 ekmek alınacak",
+      "id": 3
+    },
+    {
+      "title": "İş bul",
+      "taskDesc": "İş ilanlarına bakılacak",
+      "id": 4
+    },
+    {
+      "title": "Yazılım öğren",
+      "taskDesc": "Yazılım alanında gelişime devam edilecek",
+      "id": 5
+    },
+    {
+      "title": "Odanı topla",
+      "taskDesc": "Odanın dağınıklığı toplanacak",
+      "id": 6
+    },
+    {
+      "title": "yeĞEwf",
+      "taskDesc": "Nİ",
+      "id": 7
+    },
+    {
+      "title": "rr",
+      "taskDesc": "tt",
+      "id": 8
+    },
+    {
+      "title": "yy",
+      "taskDesc": "hh",
+      "id": 9
+    }
+  ]
+}
