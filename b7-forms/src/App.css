@@ -1,0 +1,86 @@
+.app {
+  /* width: 350px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.task-create {
+  width: 450px;
+}
+
+.task-update {
+  width: 250px;
+}
+
+.task-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.task-label {
+  margin: 10px 0px;
+}
+
+.task-input {
+  padding: 8px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.task-button {
+  margin: 10px 0px;
+  padding: 8px;
+  border: 1px solid greenyellow;
+  border-radius: 10px;
+  background: green;
+  color: aliceblue;
+  font-size: 1.1rem;
+}
+
+.update-button {
+  background-color: blueviolet;
+}
+
+.task-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.task-show {
+  border: 1px solid green;
+  border-radius: 20px;
+  width: 350px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.task-title {
+  margin-bottom: 5px;
+}
+
+.task-delete {
+  padding: 5px;
+  font-size: 15px;
+  width: 60px;
+  border: none;
+  border-radius: 30px;
+  background-color: red;
+  color: white;
+  margin-right: 10px;
+}
+
+.task-edit {
+  padding: 5px;
+  font-size: 15px;
+  width: 90px;
+  border: none;
+  border-radius: 30px;
+  background-color: blue;
+  color: white;
+  margin-right: 10px;
+}
