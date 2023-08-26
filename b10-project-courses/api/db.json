@@ -1,0 +1,30 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio est expedita aliquid accusantium earum aspernatur molestias. Cumque error fugiat neque? Blanditiis harum, quas voluptate at animi aperiam ullam nobis enim.",
+            "title": "Angular",
+            "price": 59
+        },{
+            "id": 2,
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio est expedita aliquid accusantium earum aspernatur molestias. Cumque error fugiat neque? Blanditiis harum, quas voluptate at animi aperiam ullam nobis enim.",
+            "title": "Bootstrap",
+            "price": 66
+        },{
+            "id": 3,
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio est expedita aliquid accusantium earum aspernatur molestias. Cumque error fugiat neque? Blanditiis harum, quas voluptate at animi aperiam ullam nobis enim.",
+            "title": "React",
+            "price": 57
+        },{
+            "id": 4,
+            "content": "HTML burada sit amet consectetur adipisicing elit. Distinctio est expedita aliquid accusantium earum aspernatur molestias. Cumque error fugiat neque? Blanditiis harum, quas voluptate at animi aperiam ullam nobis enim.",
+            "title": "HTML",
+            "price": 0
+        },{
+            "id": 5,
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio est expedita aliquid accusantium earum aspernatur molestias. Cumque error fugiat neque? Blanditiis harum, quas voluptate at animi aperiam ullam nobis enim.",
+            "title": "Vue",
+            "price": 49
+        }
+    ]
+}
